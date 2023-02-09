@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['94742344502'] //ur owner number
+global.ownername = "тωσяℓ∂вσт Official" //ur owner name
+global.ytname = "YT: тωσяℓ∂" //ur yt chanel name
+global.socialm = "GitHub: 🙈T̴W̴O̴R̴L̴D̴" //ur github or insta name
+global.location = "Sri Lanka, Colombo, " //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.ownernomer = "94742730470" //ur number
+global.premium = ['94742749470'] //ur premium number
+global.botname = '🙈🅃🅆🄾🅁🄻🄳 🄼🄳 🄱🄾🅃🙈' //ur bot name
+global.linkz = "https://chat.whatsapp.com/IX00RyPG07d7i5lvBoekcc" //your theme url which will be displayed on whatsapp
+global.websitex = "http://technolandworldblog.blogspot.com" //ur website to be displayed
+global.botscript = 'https://github.com/🙊/🙈' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By ꧁🙈𝙏𝙒𝙊𝙍𝙇𝘿⃢𝙈𝘿𝘽𝙊𝙏🙊꧂" //ur sticker watermark packname
+global.author = "𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝘼𝙉𝘿 𝙒𝙊𝙍𝙇𝘿 Official" //ur sticker watermark author
+global.wm = "𝚃𝚆𝙾𝚁𝙻𝙳 𝙱𝙾𝚃 𝗜𝗡𝗖" //ur watermark
 
 // Other
 global.sessionName = 'session'
